@@ -25,7 +25,7 @@ Each folder links to its own repository. 🔒 = private until publication; code 
 
 | Repository | Description |
 |---|---|
-| **PaperSort** 🔒 | 🧠 AI-Powered Academic Paper Organizer with Mind-Maps *(private — available on request)* |
+| [**PaperSort**](https://github.com/rcwang2024/PaperSort) | AI-powered academic paper organizer: topic clustering, mind-maps and summaries with a local LLM (Ollama) |
 
 ## Clone everything
 
