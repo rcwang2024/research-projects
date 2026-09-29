@@ -10,10 +10,6 @@
 	path = aml-lineage-venetoclax
 	url = https://github.com/rcwang2024/aml-lineage-venetoclax.git
 	branch = main
-[submodule "Proj_AML"]
-	path = Proj_AML
-	url = https://github.com/rcwang2024/Proj_AML.git
-	branch = main
 [submodule "MultiOmics_Integration_Hormone_Driven_Cancers"]
 	path = MultiOmics_Integration_Hormone_Driven_Cancers
 	url = https://github.com/rcwang2024/MultiOmics_Integration_Hormone_Driven_Cancers.git
