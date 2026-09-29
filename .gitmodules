@@ -6,11 +6,31 @@
 	path = Proj_MutSig_distance_comparison
 	url = https://github.com/rcwang2024/Proj_MutSig_distance_comparison.git
 	branch = main
+[submodule "aml-lineage-venetoclax"]
+	path = aml-lineage-venetoclax
+	url = https://github.com/rcwang2024/aml-lineage-venetoclax.git
+	branch = main
 [submodule "Proj_AML"]
 	path = Proj_AML
 	url = https://github.com/rcwang2024/Proj_AML.git
 	branch = main
+[submodule "MultiOmics_Integration_Hormone_Driven_Cancers"]
+	path = MultiOmics_Integration_Hormone_Driven_Cancers
+	url = https://github.com/rcwang2024/MultiOmics_Integration_Hormone_Driven_Cancers.git
+	branch = main
+[submodule "thesis-analysis-code"]
+	path = thesis-analysis-code
+	url = https://github.com/rcwang2024/thesis-analysis-code.git
+	branch = main
+[submodule "metabolic-distance-kora"]
+	path = metabolic-distance-kora
+	url = https://github.com/rcwang2024/metabolic-distance-kora.git
+	branch = main
 [submodule "Proj_Metabolomics_Pattern"]
 	path = Proj_Metabolomics_Pattern
 	url = https://github.com/rcwang2024/Proj_Metabolomics_Pattern.git
+	branch = main
+[submodule "PaperSort"]
+	path = PaperSort
+	url = https://github.com/rcwang2024/PaperSort.git
 	branch = main
