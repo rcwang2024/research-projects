@@ -1,0 +1,16 @@
+[submodule "Proj_MutSig_Exposure_EMD"]
+	path = Proj_MutSig_Exposure_EMD
+	url = https://github.com/rcwang2024/Proj_MutSig_Exposure_EMD.git
+	branch = main
+[submodule "Proj_MutSig_distance_comparison"]
+	path = Proj_MutSig_distance_comparison
+	url = https://github.com/rcwang2024/Proj_MutSig_distance_comparison.git
+	branch = main
+[submodule "Proj_AML"]
+	path = Proj_AML
+	url = https://github.com/rcwang2024/Proj_AML.git
+	branch = main
+[submodule "Proj_Metabolomics_Pattern"]
+	path = Proj_Metabolomics_Pattern
+	url = https://github.com/rcwang2024/Proj_Metabolomics_Pattern.git
+	branch = main
